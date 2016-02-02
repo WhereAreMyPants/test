@@ -1,3 +1,6 @@
+
+user 2 puts stuff at the beginning
+
 this is a new file.
 lets see how to push this.
 
